@@ -77,3 +77,4 @@ Update: 2025-08-15 23:39:24 - Update styles - 2024-06-17
 Update: 2025-08-15 23:39:24 - Update dependencies - 2024-06-17
 Update: 2025-08-15 23:39:25 - Add tests - 2024-06-17
 Update: 2025-08-15 23:39:25 - Refactor code - 2024-06-18
+Update: 2025-08-15 23:39:25 - Update README - 2024-06-18
