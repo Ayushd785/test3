@@ -148,3 +148,4 @@ Update: 2025-08-15 23:44:14 - Add logging - 2025-05-30
 Update: 2025-08-15 23:44:14 - Update documentation - 2025-05-30
 Update: 2025-08-15 23:44:14 - Add logging - 2025-05-31
 Update: 2025-08-15 23:44:14 - Fix formatting - 2025-05-31
+Update: 2025-08-15 23:44:15 - Fix security issue - 2025-05-31
