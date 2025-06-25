@@ -217,3 +217,4 @@ Update: 2025-08-15 23:44:30 - Fix formatting - 2025-06-24
 Update: 2025-08-15 23:44:30 - Update documentation - 2025-06-24
 Update: 2025-08-15 23:44:30 - Update dependencies - 2025-06-24
 Update: 2025-08-15 23:44:30 - Fix memory leak - 2025-06-25
+Update: 2025-08-15 23:44:30 - Update API endpoints - 2025-06-25
